@@ -38,17 +38,17 @@ The dataset, sourced from PwC Switzerland's Virtual Internship Program via Forag
 - There are more tech support tickets, with 2,173 tickets raised, compared to 885 admin tickets. This indicates a need for improvements in tech support.
 
 ### Recommendations
-1. **Enhance Tech Support:** 
-Allocate resources to improve technical support services and lower tech tickets per customer to 0.5 % addressing the higher number of tech-related issues compared to administrative tickets.
+1. **Enhance Tech Support:**
+Allocate resources to enhance technical support services and decrease tech tickets per customer by 0.5%, addressing the higher volume of tech-related issues, we can reduce tech tickets by 2,132. Consequently, this leads to a reduction in churn by 2% and an increase in revenue by 0.53%.
 
 2. **Improve Retention for New Customers:**
-Implement onboarding programs and early engagement strategies to enhance customer retention during the critical first year and increase 1 st and 2 nd year sale contracts by 5% each.
+Implement onboarding programs and early engagement strategies to enhance customer retention during the critical first year and increase 1 st and 2 nd year sale contracts by 5% each which in turn will retain 50 additional customers, boosting revenue by 0.71%.
 
 3. **Focus on Senior Citizens:**
-Develop targeted retention strategies for senior citizens, such as personalized support and loyalty programs, to reduce their disproportionately high churn rate.
+Develop targeted retention strategies for senior citizens, such as personalized support and loyalty programs, to reduce their disproportionately high churn rate which could reduce their churn by 5% and can retain an additional 24 senior customers with a revenue increase of approximately 0.34%.
 
 4. **Promote Long-term Contracts:**
-Incentivize longer-term contracts through discounts or added benefits to improve customer retention.
+Incentivize longer-term contracts through discounts or added benefits to improve customer retention and increase one-year and two-year contracts by 5% each. This results in 10% additional retention benefit which in turns results in retaining of 70 new customers with longer-term contracts, raising revenue by 0.99%.
 
 ### Dashboard:
 ### Churn Analysis:
