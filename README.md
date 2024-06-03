@@ -4,6 +4,8 @@
 - The objective of the customer churn analysis project in Power BI is to assess vital performance indicators such as total customers, at-risk customers, churn rate, yearly and monthly charges, as well as the number of rising tickets in administrative and technical categories. The Telecommunications Retention Manager is actively seeking a comprehensive solution to elevate customer retention efforts and mitigate customer churn. By scrutinizing these metrics, the project aims to pinpoint areas for enhancement and improve operational effectiveness.
 - Leveraging Power BI's robust visualization tools, this initiative aims to provide actionable insights to boost customer retention efforts and reduce churn. The focus is on comprehending customer retention dynamics, analyzing subscription trends, and exploring their distribution across different factors to gain valuable insights.
 
+### Exploring Links:
+Explore the live dashboard: [Live dashboard](https://app.powerbi.com/view?r=eyJrIjoiZGMzOWNjZjctZmZkYy00MjM2LWJhMDQtYzBkOGY3MzMxZGFiIiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9)  
 ### Data Sources:
 The dataset, sourced from PwC Switzerland's Virtual Internship Program via Forage, comprises records from a telecommunications company. It includes information on various aspects such as gender, partner, tenure, tech ticket and admin tickets count, contract type, payment method, subscriptions like phone service, internet service, online security, etc.
 
