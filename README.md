@@ -5,9 +5,12 @@
 - Leveraging Power BI's robust visualization tools, this initiative aims to provide actionable insights to boost customer retention efforts and reduce churn. The focus is on comprehending customer retention dynamics, analyzing subscription trends, and exploring their distribution across different factors to gain valuable insights.
 
 ### Exploring Links:
-Explore the live dashboard : [Live dashboard](https://app.powerbi.com/view?r=eyJrIjoiZGMzOWNjZjctZmZkYy00MjM2LWJhMDQtYzBkOGY3MzMxZGFiIiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9) 
+View live dashboard : [Live dashboard](https://app.powerbi.com/view?r=eyJrIjoiZGMzOWNjZjctZmZkYy00MjM2LWJhMDQtYzBkOGY3MzMxZGFiIiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9) 
 
-Explore the Presentation video : [Presentation video](https://www.linkedin.com/posts/chellalakshmi_pwcswitzerland-pwc-internship-activity-7203663513905504256-r7IZ?utm_source=share&utm_medium=member_desktop)
+View Presentation video : [Presentation video](https://www.youtube.com/embed/IvYZJ_2q1Z8?si=4KiIT8mfCOg4pqYx)
+
+View LinkedIn Engagement : [LinkedIn Engagement](https://www.linkedin.com/posts/chellalakshmi_pwcswitzerland-pwc-internship-activity-7203663513905504256-r7IZ?utm_source=share&utm_medium=member_desktop)
+
 ### Data Sources:
 The dataset, sourced from PwC Switzerland's Virtual Internship Program via Forage, comprises records from a telecommunications company. It includes information on various aspects such as gender, partner, tenure, tech ticket and admin tickets count, contract type, payment method, subscriptions like phone service, internet service, online security, etc.
 
